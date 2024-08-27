@@ -1,2 +1,0 @@
-# Mugshot-Cafe
-Final Project
